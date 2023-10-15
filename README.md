@@ -1,1 +1,1 @@
-# Capstone_Project_1
+# This repositry contains notebooks for Data Science Certificate Capstone Project
